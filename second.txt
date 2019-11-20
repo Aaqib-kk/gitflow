@@ -1,1 +1,3 @@
 updating second file smartgit
+
+mak developer is updating
